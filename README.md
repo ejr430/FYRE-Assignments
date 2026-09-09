@@ -3,5 +3,6 @@ All Assignments are Saved Here for my "Sensing the World" module at Lehigh Unive
 
 # Programming Assignments
 September 9th Activity 
-festive_dogbane.py- "Hello World"
+Program1.py- "Hello World"
 Program2.py- "My name is" program
+Program3.py- "My name is" with a variable
