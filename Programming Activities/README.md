@@ -1,5 +1,5 @@
 #Programming Activities
-Program1.py- "Hello World"
-Program2.py- "My name is"
-Program3.py- "My name is" with a variable
-Program4.py- Blinking LED
+Program 1: "Hello World" (Prints Hello World)
+Program 2: "My name is" (Prints My name is ___)
+Program 3: "My name is" with a variable (Prints My name is ____ with a variable)
+Program 4: Blinking LED (LED flickers)
