@@ -1,11 +1,11 @@
-LightTestFile.py - Made September 28, Tests to see if the light works and how the Ardio Nano ESP32 can be used to make it turn on when a button is clicked.
+LightTestFile.py - Made September 28, Testing to see if light works and using the button as a switch to control the light
 
-MotorTestProgram.py - Made September 28, Tests if the motor will spin with different amounts of weight on it, to ensure it is not overloaded.
+MotorTestProgram.py - Made September 28, Testing our motor to make sure it can spin the weight of our awning
 
-LightMotorButton.py - Made September 28, Combines the motor and light test functions to ensure all the code works correctly and to catch any errors before the sensor is introduced.
+LightMotorButton.py - Made September 28, Takes the voltage reading through the LED (HIGH or LOW) and then a motor will spin everytime the voltage reading changes
 
-SensorTest.py - Made September 28, Tests the baseline resistivity of the custom sensor we made in lab.
+SensorTest.py - Made September 28, Tests resistivity of our custom sensor
 
-Project1Final.py - Made September 30, Combines the sensor with the light, motor, and button, using the backbone of the code in Programming Assignment #5
+FinalProject.py - Made September 30, Combines the code above in order to get our awning system to work the way we wanted it to
 
-Awning Sensor Project.pptx - Finished October 4th, A slideshow that demonstrates everything we did in our project to be presented to the class.
+Awning Sensor Project.pptx - Slideshow of implementation of our project and how our project met requirements
