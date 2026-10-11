@@ -1,4 +1,4 @@
-LightTestFile.py - Made September 28, Testing to see if light works and using the button as a switch to control the light
+Testlight.py - Made September 28, Testing to see if light works and using the button as a switch to control the light
 
 MotorTest.py - Made September 28, Testing our motor to make sure it can spin the weight of our awning
 
