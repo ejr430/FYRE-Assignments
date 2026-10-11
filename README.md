@@ -32,4 +32,4 @@ October 1st:
 - Integrated the code to make the light and custom sensor work 
 - Finished project 
 
-![Project Image](./IMG_0662.JPG)
+![Project Image](IMG_0662.JPG)
