@@ -1,7 +1,7 @@
 # FYRE-Assignments
 All Assignments are Saved Here for my "Sensing the World" module at Lehigh University
 
-[Programming Activities](https://github.com/ejr430/FYRE-Assignments/tree/e449b74e2a64086dc18796085401fb133462c2a3/Programming%20Activities)
+# [Programming Activities](https://github.com/ejr430/FYRE-Assignments/tree/e449b74e2a64086dc18796085401fb133462c2a3/Programming%20Activities)
 September 9th Activity
 Program1.py- "Hello World"
 Program2.py- "My name is" program
