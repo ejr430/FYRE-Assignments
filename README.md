@@ -16,7 +16,6 @@ September 16th:
 Created a program that could measure the voltage of our raindrop sensor under different conditions
 # [Projects](https://github.com/ejr430/FYRE-Assignments/tree/b9ec57d9031487c50ff376ddc09eb6be4d6e720a/Projects)
 
-
 September 21st:
 Talked about Communication/Planned final project
 
