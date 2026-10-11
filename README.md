@@ -8,6 +8,8 @@ Program2.py- "My name is" program
 Program3.py- "My name is" with a variable
 Program4.py- Blinking light program
 
+
+# [Projects](https://github.com/ejr430/FYRE-Assignments/tree/b9ec57d9031487c50ff376ddc09eb6be4d6e720a/Projects)
 September 14th
 Built Dr Valvano's Security System and Other Circuits
 
